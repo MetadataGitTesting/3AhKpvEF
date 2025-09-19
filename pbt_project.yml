@@ -1,0 +1,58 @@
+name: phyliss.volkman
+description: adapter
+version: 0.76.220
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: phylissvolkman
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:27:12'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:27:12'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:27:12.639287Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '261302160'
+  createdAt: '2025-09-19T23:27:12.639287Z'
+  type: plibMaven
+projectDependencies:
+  '115':
+    projectUID: 115
+    projectName: jazmine.auer
+    repositoryPath: gitUri=http://gitserver:3000/dev_51KJKXur_team_227/dev_51KJKXur_project_115.git&subPath=
+    version: jazmine.auer/0.6.4.122
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:27:10'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
